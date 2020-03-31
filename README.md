@@ -2,6 +2,8 @@
 
 This is a next.js starter app.
 
+![alt text](https://imgur.com/5q2tUWc)
+
 ## Getting Started
 
 To get started run:
