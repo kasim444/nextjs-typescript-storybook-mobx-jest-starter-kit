@@ -2,7 +2,7 @@
 
 This is a next.js starter app.
 
-![alt text](https://imgur.com/5q2tUWc)
+![Next.js starter kit photo](https://i.imgur.com/5q2tUWc.png)
 
 ## Getting Started
 
